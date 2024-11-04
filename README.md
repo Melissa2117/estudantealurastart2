@@ -1,4 +1,4 @@
-boas vendas ao meu perfil
+boas vindas ao meu perfil
 meu nome é Melissa Morais
 estou estudando na alura
 estou me desenvolvendo na linguagem JavaScript
